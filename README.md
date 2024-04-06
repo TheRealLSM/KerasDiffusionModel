@@ -1,2 +1,2 @@
 # KerasDiffusionModel
-Autobot - a step-aware diffusion model in Keras
+Autobot - a step-aware denoising diffusion model in Keras
